@@ -9,8 +9,8 @@ zadata_rec = izbor_reci()
 upotrebljena_slova = set()
 zivota = 7
 
-print(zadata_rec)
-print(len(zadata_rec))
+# print(zadata_rec)
+# print(len(zadata_rec))
 
 prikaz_rezultata = "_ "*len(zadata_rec)
 print(prikaz_rezultata)
