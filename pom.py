@@ -1,0 +1,1 @@
+reci = ("vladimir", "marko", "beograd", "nemacka", "rusija", "zambezi")
